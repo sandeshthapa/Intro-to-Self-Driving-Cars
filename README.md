@@ -26,9 +26,23 @@ Python
 ![](https://github.com/sandeshthapa/Intro-to-Self-Driving-Cars/blob/master/Project_1_2D_Histogram_Filter_in%20_Python/histogram.png)
 
 ## <a name ="project2"></a>Project_2_Implement_a_Matrix_Class
+In this project you’ll practice using your object oriented programming and matrix math skills by filling out
+the methods in a partially-completed `Matrix` class.
+
 ## <a name ="project3"></a>Project_3_Translate_Python_to_C++
+In this project you’ll apply your knowledge of C++ syntax by translating the Histogram Filter code from
+the first course into C++.
+
 ## <a name ="project4"></a>Project_4_Optimize_Histogram_Filter
+A self-driving car can’t afford to waste any cycles or memory unnecessarily. In this project you’ll take
+some functioning (but inefficient) C++ code and optimize it.
+
 ## <a name ="project5"></a>Project_5_Planning_an_Optimal_Path
+You turn on your self-driving car, buckle up, and enter a destination. Navigating from A → B is not an
+easy problem. In this project you’ll use your knowledge of data structures (in particular, graph data
+structures) and search algorithms to write an algorithm which uses a map and traffic information to find
+the quickest route between two points.
+
 ## <a name ="project6"></a>Project_6_Trajectory_Visualizer
 ## <a name ="project7"></a>Project_7_Image_Classifier_from_Scratch
 
