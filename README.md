@@ -43,6 +43,7 @@ easy problem. In this project you’ll use your knowledge of data structures (in
 structures) and search algorithms to write an algorithm which uses a map and traffic information to find
 the quickest route between two points.
 
+Planned Path Using A-Star
 ![A-Star](https://github.com/sandeshthapa/Intro-to-Self-Driving-Cars/blob/master/Project_5_Planning_an_Optimal_Path/maps.png)
 
 ![](https://github.com/sandeshthapa/Intro-to-Self-Driving-Cars/blob/master/Project_5_Planning_an_Optimal_Path/astar.png)
