@@ -2,7 +2,7 @@
 
 ## Projects 
 
-### Project 0[Joy Ride](Project 0 Joy Ride)
+### Project 0[Joy Ride](Project-0-Joy-Ride)
 
 Jump into writing code that controls a simulated vehicle. Send throttle and steering commands to the
 car to try and get it to navigate around a test track.
