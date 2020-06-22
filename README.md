@@ -2,7 +2,7 @@
 
 ## Projects 
 
-## [Project_0_Joy Ride](https://github.com/sandeshthapa/Intro-to-Self-Driving-Cars/Project_0_Joy_Ride)
+## [Project_0_Joy Ride](https://github.com/sandeshthapa/Intro-to-Self-Driving-Cars/tree/master/Project_0_Joy_Ride)
 Jump into writing code that controls a simulated vehicle. Send throttle and steering commands to the
 car to try and get it to navigate around a test track.
 
