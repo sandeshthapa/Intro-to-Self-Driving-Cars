@@ -15,6 +15,8 @@
 ## <a name="project-0"></a>Project_0_Joy Ride
 Jump into writing code that controls a simulated vehicle. Send throttle and steering commands to the
 car to try and get it to navigate around a test track.
+
+
 ![](https://github.com/sandeshthapa/Intro-to-Self-Driving-Cars/blob/master/Project_0%20_Joy%20_Ride/ParallelParkingAnimation.gif)
 
 ## <a name ="project-1"></a>Project_1_2D_Histogram_Filter_in _Python
