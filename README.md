@@ -1,6 +1,9 @@
 # Intro to Self Driving Cars
 
-## Projects 
+## Sandesh Thapa
+
+## Intro 
+This directory contains all the projects I completed for intro to self driving car nano degree offered by updacity. 
 
 ## Table of Contents 
 1. [Project_0_Joy Ride](#project-0)
@@ -51,4 +54,7 @@ Planned Path Using A-Star
 
 ## <a name ="project6"></a>Project_6_Trajectory_Visualizer
 ## <a name ="project7"></a>Project_7_Image_Classifier_from_Scratch
+
+### Contact 
+thapasandesh1@gmail.com
 
