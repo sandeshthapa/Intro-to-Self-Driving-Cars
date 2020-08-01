@@ -53,12 +53,23 @@ Planned Path Using A-Star
 ![](https://github.com/sandeshthapa/Intro-to-Self-Driving-Cars/blob/master/Project_5_Planning_an_Optimal_Path/astar.png)
 
 ## <a name ="project6"></a>Project_6_Trajectory_Visualizer
+Use raw acceleration, displacement, and angular rotation data from a vehicle's accelerometer, odometer, and rate gyros to reconstruct a vehicle's X, Y trajectory. 
+
+![](https://github.com/sandeshthapa/Intro-to-Self-Driving-Cars/blob/master/Project_6_Trajectory_Visualizer/trajectory.png)
+
+
+
 ## <a name ="project7"></a>Project_7_Image_Classifier_from_Scratch
 Buid a classification pipleline that takes an image of a traffic and outputs a label that classifies the image as a :red, green, or yellow traffic. 
+
+Green
 ![](https://github.com/sandeshthapa/Intro-to-Self-Driving-Cars/blob/master/Project_7_Image_Classifier_from_Scratch/traffic_light_images/training/green/00910eaa-bfb5-42d1-acf0-2cb87b877f8d.jpg)
 
+Red
 ![](https://github.com/sandeshthapa/Intro-to-Self-Driving-Cars/blob/master/Project_7_Image_Classifier_from_Scratch/traffic_light_images/training/red/0023f366-a173-4ba7-952c-63f5698c022d.jpg)
 
+
+Yellow
 ![](https://github.com/sandeshthapa/Intro-to-Self-Driving-Cars/blob/master/Project_7_Image_Classifier_from_Scratch/traffic_light_images/training/yellow/0717438a-6b46-46fc-9d18-c9061349b486.jpg)
 
 
