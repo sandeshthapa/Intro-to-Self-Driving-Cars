@@ -77,8 +77,8 @@ Buid a classification pipleline that takes an image of a traffic and outputs a l
 ![](https://github.com/sandeshthapa/Intro-to-Self-Driving-Cars/blob/master/Project_7_Image_Classifier_from_Scratch/traffic_light_images/training/yellow/0717438a-6b46-46fc-9d18-c9061349b486.jpg)
 
 
-## Certiicate 
-![](https://github.com/sandeshthapa/Intro-to-Self-Driving-Cars/blob/master/Certificate.pdf)
+## Certificate 
+![](https://github.com/sandeshthapa/Intro-to-Self-Driving-Cars/blob/master/Certificate.png)
 
 ### Contact 
 thapasandesh1@gmail.com
